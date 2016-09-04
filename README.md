@@ -1,4 +1,4 @@
-Note: This is imcomplete and examples are not tested yet. 
+**Note**: This is incomplete and examples are not tested yet. 
 This information is not intended to teach anyone yet. 
 This is just me putting my thoughts together while I commute in train to work. 
 Once I have complete information here then I will remove this note.
